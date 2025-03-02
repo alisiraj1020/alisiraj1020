@@ -1,6 +1,8 @@
 ![Header](./image.png)
 # 💫 About Me:
 👯 I’m looking to collaborate on **Flutter, PHP, and embedded systems projects**  <br>🤝 I’m looking for help with **AI integration in web and mobile applications**  <br>🌱 I’m currently learning **Flutter, Python, and backend development with PHP & CodeIgniter**  <br>💬 Ask me about **C++, Flutter, Arduino, and web development**  <br>⚡ Fun fact: **I love working with both software and hardware, bringing digital and physical worlds together!**<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alisiraj1020&label=Profile%20views&color=0e75b6&style=flat" alt="alisiraj1020" /> </p>
+
 
 
 ## 🌐 Socials:
